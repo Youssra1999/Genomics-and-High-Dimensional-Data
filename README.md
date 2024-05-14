@@ -5,8 +5,6 @@
 The second project of the MIT MicroMasters Program course on Data Analysis analyzed a single-cell RNA-seq dataset, with the goal of unveiling
 hierarchical structure and discovering important genes from it. To be more precise, the challenge was to find ways to extract meaningful information from a high-dimensional dataset compiled by the Allen Institute that contains cells from the mouse neocortex, a region in the brain which governs higher-level functions such as perception and cognition.
 
-_Genomics and High Dimensional Data.png
-
 <img src="_Genomics and High Dimensional Data.png" alt="Image" width="500" align="right">
 
 The larger p2_unsupervised set consists of 2,169 rows, depecting cells, and 45,768 columns, depecting genes, corresponding to the normalized transcript compatibility count (TCC) of an equivalence class of short RNA sequences, rescaled to units of counts per million. Unfortunately, the datasets themselves are too large to be downloaded to GitHub, as even the reduced set is over 300MB. However, some similar (but smaller) datasets can be found from the Allen Institute (https://portal.brain-map.org/atlases-and-data/rnaseq).
