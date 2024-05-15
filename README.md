@@ -1,8 +1,6 @@
 ## Genomics-and-High-Dimensional-Data
 
-# MITx - MicroMasters Program on Statistics and Data Science - Data Analysis: Statistical Modeling and Computation in Applications - Second Project
-
-The second project of the MIT MicroMasters Program course on Data Analysis analyzed a single-cell RNA-seq dataset, with the goal of unveiling
+This project analyzed a single-cell RNA-seq dataset, with the goal of unveiling
 hierarchical structure and discovering important genes from it. To be more precise, the challenge was to find ways to extract meaningful information from a high-dimensional dataset compiled by the Allen Institute that contains cells from the mouse neocortex, a region in the brain which governs higher-level functions such as perception and cognition.
 
 <img src="_Genomics and High Dimensional Data.png" alt="Image" width="500" align="right">
